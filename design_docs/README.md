@@ -1,0 +1,3 @@
+# Her skal dokumenter om design være
+Både design-design (altså udseende), men også system-design...
+
